@@ -1,16 +1,19 @@
-### Hi there 👋
+Hii I'am SANKET
+programmer,softwere develoaper
 
+Softwerwere Develoapment project:
+                      1.colmar academy
+											2.restaurent website
+											3.Avanue restaurent website
+											
+	SKILLS:
+	        .HTML
+					.CSS
+					.JAVA
+					.JAVASCRIPT
+					.SPRING BOOT
+					
+ADREES: AT post kukana TEL newasa DIST ahmednagar
 
-**SanketLawande/SanketLawande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+											
 
